@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SSUHOY
+- 👋 Hi, I’m Semyon 
 - 👀 I’m interested in music, sports, videogames
 - 🌱 I’m currently learning web-development
 - 💞️ I’m looking to collaborate on specific projects to improve my codding skills
