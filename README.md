@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Semyon</a> 
+<h1 align="left">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Semyon</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Web developer from Novosibirsk</h3>
+<h3 align="left">Web-developer from Novosibirsk (Russia)</h3>
 
-🌱 I learn new things every day and am very passionate about web development.
+🌱 learn new things every day and very passionate about web-development.
 
 
 #### My skills:
@@ -30,23 +30,22 @@
 
 ---
 
-Стремлюсь искать точки роста и изучать новые технологии, готов изучать новые инструменты разработки и расширять свой стек.
+I am looking to grow as a frontend developer, such as learning new technologies, improving design skills, enhancing user experience
 
 ---
 
-🎸 Свободное время предпочитаю распределять на развитие, но в других областях, а именно в музыке. 
-❄️ Предпочитаю зимние виды спорта, сноуборд в моём сердце навсегда!
+🎸 I prefer to allocate my free time to development, but in other areas, especially in music. <br>
+❄️ I prefer winter sports, snowboarding is in my heart forever!
 
 ---
 
-✔️ Моя цель - стать востребованным специалистом в области веб-разработки, принимать участие в интересных проектах и повышать свою ценность на рынке IT. Открыт к новым знаниям!  
+✔️ My goal is to become a sought-after specialist, take part in interesting projects and increase my value in the IT market. <br> Forever open to new knowledge!
 
 ---
 
-💜 Благодарен за посещение моего профиля! Я рад сотрудничеству и уверен, что моё желание развиваться и становиться лучше не оставит Вас равнодушным. Не стесняйтесь связаться со мной, и я с удовольствием отвечу на все ваши вопросы.
+💜 Thank you for visiting my profile! I am glad to cooperate and I am sure that my desire to develop and become better will not leave you indifferent. Feel free to contact me and I will be happy to answer all your questions.
 
-✉️ Вы можете связаться со мной в [telegram](https://t.me/sjivoii) или в почте sammysoul96@gmail.com
-
+✉️ You may contact within [telegram](https://t.me/sjivoii) or email sammysoul96@gmail.com.
 <!---
 SSUHOY/SSUHOY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
