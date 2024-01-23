@@ -1,10 +1,11 @@
-### 👋 Приветствую! Меня зовут Семён
-#### Я Web-разработчик из Новосибирска (Россия)
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Semyon</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Web developer from Novosibirsk</h3>
 
-🌱 Ежедневно изучаю новое и очень увлечен web-разработкой
+🌱 I learn new things every day and am very passionate about web development.
 
 
-#### Мои навыки:
+#### My skills:
 
  <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>&nbsp;
