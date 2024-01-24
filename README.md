@@ -39,7 +39,7 @@ I am looking to grow as a frontend developer, such as learning new technologies,
 
 ---
 
-✔️ My goal is to become a sought-after specialist, take part in interesting projects and increase my value in the IT market. <br> Forever open to new knowledge!
+✔️ My goal is to become a sought-after specialist, take part in interesting projects and increase my value in the IT market. <br> 📚 Forever open to new knowledge!
 
 ---
 
