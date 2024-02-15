@@ -45,7 +45,7 @@ I am looking to grow as a frontend developer, such as learning new technologies,
 
 💜 Thank you for visiting my profile! I am glad to cooperate and I am sure that my desire to develop and become better will not leave you indifferent. Feel free to contact me and I will be happy to answer all your questions.
 
-✉️ You may contact within [telegram](https://t.me/sjivoii) or email sammysoul96@gmail.com.
+✉️ You may contact me within [telegram](https://t.me/sjivoii) or email sammysoul96@gmail.com.
 <!---
 SSUHOY/SSUHOY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
