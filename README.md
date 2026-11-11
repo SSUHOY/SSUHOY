@@ -34,5 +34,5 @@
 ---
 
 ### 📫 Let's Connect:
-* **Telegram:** [@sjivoii](https://t.me/ssukhoii)
+* **Telegram:** [@ssukhoii](https://t.me/ssukhoii)
 * **Email:** sammysoul96@gmail.com
